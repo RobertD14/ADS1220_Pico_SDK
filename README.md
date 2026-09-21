@@ -1,5 +1,4 @@
-# ADS1120 Arduino Library
+# ADS1220 Pi Pico SDK Library
 
-Arduino/C++ Driver for the ADS1220 24-bit Analog to Digital Converter.
+C++ Driver for the ADS1220 24-bit Analog to Digital Converter to be used with the Pi Pico SDK.
 
-This library also works with ADS1120 from TI
